@@ -30,7 +30,7 @@ class ResultView: UIView {
         }
         addShadow(offset: CGSize(width: 0, height: 3),
                   color: .black,
-                  radius: 12.0,
+                  radius: 12,
                   opacity: 0.1)
         
     }
